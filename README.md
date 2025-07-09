@@ -43,7 +43,7 @@ This project is a lightweight spam email classifier that uses Natural Language P
 
 This project uses the **SMS Spam Collection Dataset** available from the Kaggle.
 
-📥 [Download Dataset (spam.csv)](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
+📥 [Download Dataset (spam.csv)](https://github.com/JENITH47/spam_email_detection/blob/main/spam.csv)
 
 ---
 
