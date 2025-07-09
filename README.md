@@ -28,9 +28,9 @@ This project is a lightweight spam email classifier that uses Natural Language P
 ## 🖼️ Output Screenshot
 
 ![Output Screenshot 1](https://github.com/JENITH47/spam_email_detection/blob/main/2025-07-09%20(5).png)
-![Output Screenshot 2](output.png)
-![Output Screenshot 3](output.png)
-![Output Screenshot 4](output.png)
+![Output Screenshot 2](https://github.com/JENITH47/spam_email_detection/blob/main/2025-07-09%20(6).png)
+![Output Screenshot 3](https://github.com/JENITH47/spam_email_detection/blob/main/2025-07-09%20(7).png)
+![Output Screenshot 4](https://github.com/JENITH47/spam_email_detection/blob/main/2025-07-09%20(8).png)
 
 ---
 
