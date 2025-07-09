@@ -36,9 +36,17 @@ This project is a lightweight spam email classifier that uses Natural Language P
 
 ## 🎥 Demo (Screen Recording)
 
-[▶️ Click to Watch Demo](demo.mp4)
+[▶️ Click to Watch Demo](https://github.com/JENITH47/spam_email_detection/blob/main/bandicam%202025-07-09%2018-47-16-896.mp4)
 
 ---
+## 📦 Dataset
+
+This project uses the **SMS Spam Collection Dataset** available from the Kaggle.
+
+📥 [Download Dataset (spam.csv)](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
+
+---
+
 
 ## 🚀 How to Run This Project
 
