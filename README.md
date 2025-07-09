@@ -27,7 +27,10 @@ This project is a lightweight spam email classifier that uses Natural Language P
 
 ## 🖼️ Output Screenshot
 
-![Output Screenshot](output.png)
+![Output Screenshot 1](output.png)
+![Output Screenshot 2](output.png)
+![Output Screenshot 3](output.png)
+![Output Screenshot 4](output.png)
 
 ---
 
